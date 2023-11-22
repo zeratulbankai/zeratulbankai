@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zeratulbankai
+- 👀 I’m interested in bleeding edge Technology.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on interesting projects.
